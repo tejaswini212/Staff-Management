@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student>
+    <Username>johndoe</Username>
+    <Password>loJ41lGjGQP7G1BSkgkw4H41+FG9QkDT+xaXRdOOhlu9d8xi8D/ibnp4KEHpbd6I/BEI29R34nFSosjQXPPhhQ==</Password>
+  </Student>
+  <Student>
+    <Username>janedoe</Username>
+    <Password>9j6RXTHOaR2/0wiFnsqUMY+3PTwr4hvrYA6BDs9j1OkxxMPDquEn1/c7fxnBZQBAQ1xVLBNIyIUMpY82exHMCw==</Password>
+  </Student>
+</Students>
